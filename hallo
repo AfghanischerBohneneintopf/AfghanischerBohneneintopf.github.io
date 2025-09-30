@@ -1,0 +1,8 @@
+cd /pfad/zu/meine-website
+git init
+git add .
+git commit -m "Initial commit"
+# Erstelle das Repo auf GitHub (web UI) und kopiere die Repo-URL, z.B.:
+git remote add origin https://github.com/username/username.github.io.git
+git branch -M main
+git push -u origin main
