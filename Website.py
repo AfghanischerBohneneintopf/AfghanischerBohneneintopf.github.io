@@ -62,5 +62,5 @@ main{
 section + section{margin-top:1rem}
 footer{ text-align:center; margin-top:1rem; color:#666; font-size:.9rem}
 a{ color:var(--accent); text-decoration:none }
-// Kleines Script für Jahr im Footer
-document.getElementById('year').textContent = new Date().getFullYear();
+
+
